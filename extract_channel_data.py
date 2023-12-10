@@ -4,10 +4,10 @@ import json
 from tqdm import tqdm
 
 # Your API details and phone number
-api_id = '21023570'
-api_hash = '230ab82957eb0777dcd66aa82bc6a380'
-phone = '972546430103'
-channel_url = 'abualiexpress'  # Use the username of the channel
+api_id = ''
+api_hash = ''
+phone = ''
+channel_url = ''  # Use the username of the channel
 
 
 async def fetch_messages(api_id, api_hash, channel_url):
